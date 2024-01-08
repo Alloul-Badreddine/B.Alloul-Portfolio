@@ -25,14 +25,14 @@ const Contact = () => {
               <h5>be.alloul@gmail.com</h5>
               <h5>+212663556696</h5> {/* Replace with your phone number */}
               <a
-                href="https://www.linkedin.com/in/your-linkedin-profile"
+                href="https://www.linkedin.com/in/badreddine-alloul/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 LinkedIn
               </a>
               <a
-                href="https://github.com/your-github-username"
+                href="https://github.com/Alloul-Badreddine"
                 target="_blank"
                 rel="noopener noreferrer"
               >
