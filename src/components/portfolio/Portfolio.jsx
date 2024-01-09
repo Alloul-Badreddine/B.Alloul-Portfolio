@@ -5,6 +5,7 @@ import IMG2 from "../../assets/Wumpus Game.png";
 import IMG3 from "../../assets/cnn image classifi.png";
 import IMG5 from "../../assets/Bust The Ghost.jpeg";
 import IMG6 from "../../assets/GuideWise.jpeg"
+import IMG4 from "../../assets/C.jpeg"
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 
@@ -57,6 +58,15 @@ const Portfolio = () => {
     technologies: "React | Javascript | FireBase",
     link: "https://github.com/Alloul-Badreddine/GuideWise",
   },
+  {
+  id: 6,
+  title: "User Management",
+  img: IMG4,
+  description:
+    "This C program is a basic console-based application for user authentication, account management, and order placement using a text file database.",
+  technologies: "C",
+  link: "https://github.com/Alloul-Badreddine/User-Management",
+ },
   ];
 
   return (
