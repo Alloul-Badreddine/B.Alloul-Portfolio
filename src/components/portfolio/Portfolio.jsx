@@ -42,15 +42,6 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "SanSat",
-      img: IMG4,
-      description:
-        "SanSat's website: Showcasing comprehensive service descriptions, offerings, and facilitating seamless transactions for satellite-based solutions.",
-      technologies: "HTML | CSS | JavaScript | PHP",
-      link: "https://github.com/Alloul-Badreddine/SanSat-Website",
-    },
-    {
-      id: 5,
       title: "Bust The Ghost Unity",
       img: IMG5,
       description:
@@ -59,7 +50,7 @@ const Portfolio = () => {
       link: "https://github.com/Alloul-Badreddine/Bust-The-Ghost-Unity",
     },
     {
-    id: 6,
+    id: 5,
     title: "GuideWise Application",
     img: IMG6,
     description:
