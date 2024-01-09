@@ -3,7 +3,6 @@ import "./portfolio.css";
 import IMG1 from "../../assets/IfraneHub.png";
 import IMG2 from "../../assets/Wumpus Game.png";
 import IMG3 from "../../assets/cnn image classifi.png";
-import IMG4 from "../../assets/SanSat.png";
 import IMG5 from "../../assets/Bust The Ghost.jpeg";
 import IMG6 from "../../assets/GuideWise.jpeg"
 import React from "react";
