@@ -64,7 +64,7 @@ const Portfolio = () => {
     img: IMG6,
     description:
       "GuideForge: An application that empowers users to create and join interactive guides for diverse activities, fostering shared experiences and knowledge sharing.",
-    technologies: "React | Javascript ",
+    technologies: "React | Javascript | FireBase",
     link: "https://github.com/Alloul-Badreddine/GuideWise",
   },
   ];
@@ -73,6 +73,7 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
+      <h5>You can email me so I can grant you access to the source code</h5>
 
       <div className="container portfolio__container">
         {soloProjects.map((pro) => (
