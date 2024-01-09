@@ -42,7 +42,7 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Bust The Ghost Unity",
+      title: "Bust The Ghost Unity ",
       img: IMG5,
       description:
         "Unity C# game 'Bust the Ghost': A thrilling adventure where players aim to capture mischievous ghosts in a dynamic and immersive virtual world.",
