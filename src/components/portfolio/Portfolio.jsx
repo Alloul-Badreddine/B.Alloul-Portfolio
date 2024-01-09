@@ -64,7 +64,7 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
-      <h5>You can email me so I can grant you access to the source code</h5>
+      <h5>Email me so I can grant you access to the source code</h5>
 
       <div className="container portfolio__container">
         {soloProjects.map((pro) => (
