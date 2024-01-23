@@ -39,7 +39,7 @@ const Contact = () => {
                 GitHub
               </a>
               
-              <h5>Khouribga, Morocco</h5>
+              <h5>Ifrane, Morocco</h5>
             </div>
           </article>
         </div>
