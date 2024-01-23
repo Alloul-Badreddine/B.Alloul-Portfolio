@@ -23,7 +23,9 @@ const Contact = () => {
             <div className="contact__option-children">
               
               <h5>be.alloul@gmail.com</h5>
+              <a href="tel:+212663556696">
               <h5>+212663556696</h5> {/* Replace with your phone number */}
+              </a>
               <a
                 href="https://www.linkedin.com/in/badreddine-alloul/"
                 target="_blank"
