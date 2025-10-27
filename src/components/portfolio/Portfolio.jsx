@@ -8,7 +8,7 @@ import IMG6 from "../../assets/GuideWise.jpeg"
 import IMG4 from "../../assets/C.jpeg"
 // New project imports
 import IMG7 from "../../assets/custom-store.png";
-// import IMG8 from "../../assets/iptv-player.png"; // Will add when image is ready
+import IMG8 from "../../assets/iptv-player.png";
 import IMG9 from "../../assets/iptv-web-platform.png";
 import React from "react";
 import { FaGithub } from "react-icons/fa";
@@ -80,15 +80,15 @@ const Portfolio = () => {
       technologies: "Next.js | TypeScript | Spring Boot | Kotlin | PostgreSQL",
       link: "https://github.com/Alloul-Badreddine/custom-store",
     },
-    // {
-    //   id: 8,
-    //   title: "Media Player Android",
-    //   img: IMG8,
-    //   description:
-    //     "High-performance Android media player with advanced optimization for low-spec devices. Features include memory management, intelligent caching, pagination, and adaptive performance based on device capabilities.",
-    //   technologies: "Kotlin | Jetpack Compose | ExoPlayer | Room Database",
-    //   link: "https://github.com/Alloul-Badreddine/IPTVPlayer",
-    // },
+    {
+      id: 8,
+      title: "Media Player Android",
+      img: IMG8,
+      description:
+        "High-performance Android media player with advanced optimization for low-spec devices. Features include memory management, intelligent caching, pagination, and adaptive performance based on device capabilities.",
+      technologies: "Kotlin | Jetpack Compose | ExoPlayer | Room Database",
+      link: "https://github.com/Alloul-Badreddine/IPTVPlayer",
+    },
     {
       id: 9,
       title: "Media Management Platform",
