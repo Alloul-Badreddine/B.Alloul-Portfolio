@@ -80,24 +80,24 @@ const Portfolio = () => {
       technologies: "Next.js | TypeScript | Spring Boot | Kotlin | PostgreSQL",
       link: "https://github.com/Alloul-Badreddine/custom-store",
     },
-    {
-      id: 8,
-      title: "Media Player Android",
-      img: IMG8,
-      description:
-        "High-performance Android media player with advanced optimization for low-spec devices. Features include memory management, intelligent caching, pagination, and adaptive performance based on device capabilities.",
-      technologies: "Kotlin | Jetpack Compose | ExoPlayer | Room Database",
-      link: "https://github.com/Alloul-Badreddine/IPTVPlayer",
-    },
-    {
-      id: 9,
-      title: "Media Management Platform",
-      img: IMG9,
-      description:
-        "Complete media management platform with web interface, Android app integration, and shared database. Features device management, content distribution, reseller dashboard, and real-time synchronization.",
-      technologies: "React | TypeScript | Node.js | PostgreSQL | Docker",
-      link: "https://github.com/Alloul-Badreddine/IPTVWebPlatform",
-    },
+    // {
+    //   id: 8,
+    //   title: "Media Player Android",
+    //   img: IMG8,
+    //   description:
+    //     "High-performance Android media player with advanced optimization for low-spec devices. Features include memory management, intelligent caching, pagination, and adaptive performance based on device capabilities.",
+    //   technologies: "Kotlin | Jetpack Compose | ExoPlayer | Room Database",
+    //   link: "https://github.com/Alloul-Badreddine/IPTVPlayer",
+    // },
+    // {
+    //   id: 9,
+    //   title: "Media Management Platform",
+    //   img: IMG9,
+    //   description:
+    //     "Complete media management platform with web interface, Android app integration, and shared database. Features device management, content distribution, reseller dashboard, and real-time synchronization.",
+    //   technologies: "React | TypeScript | Node.js | PostgreSQL | Docker",
+    //   link: "https://github.com/Alloul-Badreddine/IPTVWebPlatform",
+    // },
   ];
 
   return (
