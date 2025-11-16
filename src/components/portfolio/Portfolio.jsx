@@ -8,8 +8,8 @@ import IMG6 from "../../assets/GuideWise.jpeg"
 import IMG4 from "../../assets/C.jpeg"
 // New project imports
 import IMG7 from "../../assets/custom-store.png";
-import IMG8 from "../../assets/iptv-player.png";
-import IMG9 from "../../assets/iptv-web-platform.png";
+// import IMG8 from "../../assets/iptv-player.png";
+// import IMG9 from "../../assets/iptv-web-platform.png";
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 
